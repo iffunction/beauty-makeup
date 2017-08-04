@@ -21,7 +21,7 @@ body{ background:#FFF6F7; font-family:arial, "微软雅黑", "宋体", serif; fo
 	#subnav nav li{ background:#fff; height:39px; line-height:39px; padding-left:20px; padding-right:10px; border-top:1px #eee8ec solid;}
 	#subnav nav li a{ display:inline-block; width:70px; text-decoration:none; color:#000;}
 	#subnav nav li span{ display:inline-block; width:70px; float:right; color:#d0d4d5; background:url(../img/arrows2.jpg) no-repeat right center; cursor:pointer;}
-	#subnav nav li div{ width:500px; height:300px; border:1px #e2dedf solid; position:absolute; z-index:1; top:38px; left:197px; background:#93FFFF; opacity:0.9;}
+	#subnav nav li div{ width:500px; height:300px; border:1px #e2dedf solid; position:absolute; z-index:1; top:38px; left:197px; background:#B5B5B5; opacity:0.9;}
 	
 	#show{ height:356px; width:560px; position:absolute; left:198px; top:0;}
 	#scroll { height:210px; width:556px; border:2px #e2dedf solid;}
