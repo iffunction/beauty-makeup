@@ -14,7 +14,7 @@ body{ background:#FFF6F7; font-family:arial, "微软雅黑", "宋体", serif; fo
 	#top span i{ display:inline-block; width:105px; background:#fef2d8 url(../img/arrows.jpg) no-repeat 95px 10px; padding-left:15px; cursor:pointer;}
 	#top span i b{ color:#932f2d;}
 	#top span a{ display:inline-block; width:68px; text-align:center; background:#fde5c1; text-decoration:none; color:#932f2d;}
-
+/*  次级导航商品分类  */
 #subnav{ height:356px; width:1000px; margin-top:18px; position:relative;}
 	#subnav nav{ width:188px; border:1px #b65f82 solid; position:absolute; left:0; top:0;}
 	#subnav nav h3{ margin:0; padding:0; font-size:16px; color:#fff; height:38px; line-height:36px; background:#fa6e9d; padding-left:20px;}
@@ -57,7 +57,7 @@ body{ background:#FFF6F7; font-family:arial, "微软雅黑", "宋体", serif; fo
 	#newlist .newlist-R div{ width:230px; height:240px; position:relative;}
 	#newlist .newlist-R div div{ width:47px; height:47px; padding:1px; border:1px #e2eddf solid; position:absolute;}
 	#newlist .newlist-R div div img{ width:46px; height:46px;}
-	
+/*  主体内容  */	
 .main{ width:1000px; height:527px; margin-top:18px; background:#fff; border-top:3px #c088a1 solid;}
 	.layout-L{ display:inline-block; width:760px; height:530px;}
 	.layout-L h3{ margin:0; padding:0; width:740px; height:47px; line-height:47px; font-size:16px; font-weight:normal; padding-left:20px; border-bottom:1px #e2dedf solid;}
@@ -87,7 +87,7 @@ body{ background:#FFF6F7; font-family:arial, "微软雅黑", "宋体", serif; fo
 	.main aside ol li div p span{}
 	.main aside ol li div p b{ color:#F92D6F;}
 	
-
+/*  结尾  */
 #friendlink{ width:100%; height:215px; margin-top:18px; background:#FFF;}
 	#friendlink ol{ width:1020px; height:215px; margin:0 auto;}
 	#friendlink ol li{ float:left; width:184px; margin:0px 10px;}
