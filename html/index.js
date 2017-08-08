@@ -188,8 +188,8 @@ function main(main){
 //底部友情链接
 var friendlin = document.getElementById("friendlink"),
 	aH4 = friendlin.getElementsByTagName("h4"),
-	icon = ["url(../img/icon.jpg)","url(../img/icon2.jpg)","url(../img/icon3.jpg)","url(../img/icon4.jpg)","url(../img/icon5.jpg)"],
-	icon2 =["url(file:///C:/Users/hasee/Desktop/html/img/icon.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon2.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon3.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon4.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon5.jpg)",];
+	icon = ["url(../img/icon.jpg)","url(../img/icon2.jpg)","url(../img/icon3.jpg)","url(../img/icon4.jpg)","url(../img/icon5.jpg)"];
+	//icon2 =["url(file:///C:/Users/hasee/Desktop/html/img/icon.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon2.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon3.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon4.jpg)","url(file:///C:/Users/hasee/Desktop/html/img/icon5.jpg)",];
 
 //本机编写时测试相对地址无法使用
 
