@@ -198,7 +198,7 @@ var friendlin = document.getElementById("friendlink"),
 
 for (var i = 0; i < aH4.length; i++) {
 	aH4[i].style.backgroundImage = icon[i];
-	aH4[i].style.backgroundImage = icon2[i];
+	//aH4[i].style.backgroundImage = icon2[i];
 };
 
 };
