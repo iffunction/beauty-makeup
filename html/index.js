@@ -33,7 +33,7 @@ for (var i = 0; i < aSpan.length; i++) {
 //中间大图轮换定时器
 var show = document.getElementById("show"),
 	oshowImg = show.getElementsByTagName("img")[0],
-	ashowUl = show.getElementsByTagName("ul"),
+	ashowUl = show.getElementsByTagName("ul");
 	ashowImg = ["img/img1.jpg","img/img2.jpg","img/img3.jpg","img/img4.jpg","img/img5.jpg"],
 	ashowLi = ashowUl[0].getElementsByTagName("li"),
 	oshowImg.num = 0;
